@@ -1,0 +1,6 @@
+# ninja log v5
+516	652	7257436344401285	Banking_Program.exe	7c3e03999915a143
+3	516	7257436343124093	CMakeFiles/Banking_Program.dir/main.cpp.obj	be53fa8552906511
+0	136	7277680512311965	build.ninja	2d29ade44f3e9939
+2	426	7278258225327084	CMakeFiles/Banking_Program.dir/main.cpp.obj	38ba7ac490deb3db
+429	598	7278258227026798	Banking_Program.exe	7c3e03999915a143
